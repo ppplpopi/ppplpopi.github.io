@@ -1,5 +1,7 @@
 # ppplpopi.github.io
 My Page
+
 my name is ploid 
 
-nathanicha ณัฏฐณิชา 
+ <marquee> " nathanicha boonyaporn ณัฏฐณิชา บุณยาภรณ์ "   </marquee>
+ 
